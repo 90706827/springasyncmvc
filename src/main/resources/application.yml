@@ -1,0 +1,3 @@
+server:
+  context-path: /springasyncmvc
+  port: 8080
